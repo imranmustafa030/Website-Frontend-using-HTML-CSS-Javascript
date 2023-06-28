@@ -13,7 +13,7 @@ This repository contains a dynamic and visually appealing website developed usin
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/website-frontend.git`
+1. Clone the repository: `git clone https://github.com/imranmustafa030/Website-Frontend-using-HTML-CSS-Javascript`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Contributing
